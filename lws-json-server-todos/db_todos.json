@@ -1,0 +1,68 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Learn Vanilla Javascript",
+      "completed": false,
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "text": "Learn Modern ES JavaScripts",
+      "completed": true,
+      "color": "red"
+    },
+    {
+      "id": 3,
+      "text": "Learn React JS",
+      "completed": false,
+      "color": "yellow"
+    },
+    {
+      "text": "Learn Redux Basics",
+      "completed": true,
+      "id": 4,
+      "color": "red"
+    },
+    {
+      "text": "Learn Redux fun",
+      "completed": false,
+      "id": 5,
+      "color": "red"
+    },
+    {
+      "text": "learn Reduxjhgj",
+      "completed": true,
+      "id": 6,
+      "color": "green"
+    },
+    {
+      "text": "Learn Redux Toolkit",
+      "completed": false,
+      "id": 7,
+      "color": "red"
+    },
+    {
+      "text": "Test seccesful",
+      "completed": false,
+      "id": 8,
+      "color": "green"
+    },
+    {
+      "text": "slfjds",
+      "completed": true,
+      "id": 9,
+      "color": "green"
+    },
+    {
+      "text": "fkjksfj",
+      "completed": true,
+      "id": 10
+    },
+    {
+      "text": "awdad",
+      "completed": false,
+      "id": 11
+    }
+  ]
+}

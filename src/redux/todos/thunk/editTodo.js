@@ -1,8 +1,9 @@
+import { dbUrl } from "../../../assets/dbUrl";
 import { updateTodo } from "../actions";
 
 const editTodo = (inputValue, todoId) => {
   return async (dispatch) => {
-    const response = await fetch(`http://localhost:9000/todos/${todoId}`, {
+    const response = await fetch(`${dbUrl}todos/${todoId}`, {
       method: "PATCH",
       body: JSON.stringify({
         text: inputValue,
